@@ -12,6 +12,24 @@
 
 ![](asset/2022/img2022021801.jpg)
 
+## 😛 新奇古怪
+
+**[田中达也](https://www.instagram.com/tanaka_tatsuya/)**
+
+田中达也是一个微型摄影艺术家，擅长用日常用品创作微型摄影作品。最近一组用口罩模拟冬奥会冰雪项目的作品，非常有想象力。
+
+![](asset/2022/img2022021806.jpg)
+
+**[Hidreley Diao](https://www.instagram.com/hidreley/)**
+
+Hidreley Diao 利用 AI 图片生成技术，将艺术作品中的历史名人还原成现代人的模样。
+
+![](asset/2022/img2022021807.jpg)
+
+**[《程序员在家做饭方法指南》](https://github.com/Anduin2017/HowToCook)**
+
+程序员学做饭似乎更喜欢用极客的方法，这是一个 Github 上的开源项目，任何人都可以修改菜谱并提交 Pull request。
+
 ## 📚 影音推荐
 
 **[《挽救计划》](https://github.com/Anduin2017/HowToCook)**
@@ -25,24 +43,6 @@
 近几年难得的好剧，豆瓣评分8.1。当然评分不太重要，主要是把我看哭了。
 
 ![](asset/2022/img2022021805.jpg)
-
-## 😛 新奇古怪
-
-**[田中达也](https://www.instagram.com/tanaka_tatsuya/)**
-
-田中达也是一个微型摄影艺术家，擅长用日常用品创作微型摄影作品。最近一组用口罩模拟冬奥会冰雪项目的作品非常有创意，值得关注。
-
-![](asset/2022/img2022021806.jpg)
-
-**[Hidreley Diao](https://www.instagram.com/hidreley/)**
-
-Hidreley Diao 利用 AI 图片生成技术，将艺术作品中的历史名人还原成现代人的模样。
-
-![](asset/2022/img2022021807.jpg)
-
-**[《程序员在家做饭方法指南》](https://github.com/Anduin2017/HowToCook)**
-
-程序员学做饭似乎更喜欢用极客的方法，这是一个 Github 上的开源项目，任何人都可以修改菜谱并提交 Pull request。
 
 ## 📝 每周一词<sup>*</sup>
 
