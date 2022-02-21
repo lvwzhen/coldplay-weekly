@@ -34,6 +34,12 @@
 
 ![](asset/2022/img2022021806.jpg)
 
+**[Hidreley Diao](https://www.instagram.com/hidreley/)**
+
+Hidreley Diao 利用 AI 图片生成技术，将艺术作品中的历史名人还原成现代人的模样。
+
+![](asset/2022/img2022021807.jpg)
+
 **[《程序员在家做饭方法指南》](https://github.com/Anduin2017/HowToCook)**
 
 程序员学做饭似乎更喜欢用极客的方法，这是一个 Github 上的开源项目，任何人都可以修改菜谱并提交 Pull request。
