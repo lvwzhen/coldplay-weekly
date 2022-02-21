@@ -28,11 +28,17 @@
 
 ## 😛 新奇古怪
 
+**[田中达也](https://www.instagram.com/tanaka_tatsuya/)**
+
+田中达也是一个微型摄影艺术家，擅长用日常用品创作微型摄影作品。最近一组用口罩模拟冬奥会冰雪项目的作品非常有创意，值得关注。
+
+![](asset/2022/img2022021806.jpg)
+
 **[《程序员在家做饭方法指南》](https://github.com/Anduin2017/HowToCook)**
 
 程序员学做饭似乎更喜欢用极客的方法，这是一个 Github 上的开源项目，任何人都可以修改菜谱并提交 Pull request。
 
-## 📝 每周一词
+## 📝 每周一词<sup>*</sup>
 
 ![Metaverse](asset/2022/img2022021804.jpg)
 
@@ -44,3 +50,5 @@
 - 制作团队：[ThusLab](https://thuscn.com/lab/)
 
 ![](asset/2022/img2022021803.jpg)
+
+> 带*内容是我们的作品，谢谢支持。
