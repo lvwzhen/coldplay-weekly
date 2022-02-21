@@ -2,6 +2,10 @@
 
 ## 🚀 产品试玩
 
+**[Shottr](https://shottr.cc/)**
+
+小巧好用的免费截图工具，支持滚动截屏、马赛克、标注、OCR、取色等功能，目前仅支持 macOS。
+
 **[Paint](https://paint.withdiagram.com/)**
 
 在网页中复刻了苹果公司第一代 Macintosh 个人电脑的绘画软件 MacPaint。
