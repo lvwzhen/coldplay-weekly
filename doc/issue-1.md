@@ -20,6 +20,12 @@
 
 ![](asset/2022/img2022021802.jpg)
 
+**[《人世间》](https://movie.douban.com/subject/35207856/)**
+
+近几年难得的好剧，豆瓣评分8.1。当然评分不太重要，主要是把我看哭了。
+
+![](asset/2022/img2022021805.jpg)
+
 ## 😛 新奇古怪
 
 **[《程序员在家做饭方法指南》](https://github.com/Anduin2017/HowToCook)**
