@@ -10,7 +10,13 @@
 
 在网页中复刻了苹果公司第一代 Macintosh 个人电脑的绘画软件 MacPaint。
 
-![](asset/2022/img2022021801.jpg)
+![](asset/2022/img2022022201.jpg)
+
+**[全历史](https://apps.apple.com/cn/app/%E5%85%A8%E5%8E%86%E5%8F%B2/id1387152606)**
+
+关公战秦琼是不可能的，但你可以在「全历史」里面将任何历史人物串联起来，枯燥的历史知识立刻变得生动有趣了。
+
+![](asset/2022/img2022022208.jpg)
 
 ## 😛 新奇古怪
 
@@ -18,13 +24,13 @@
 
 田中达也是一个微型摄影艺术家，擅长用日常用品创作微型摄影作品。最近一组用口罩模拟冬奥会冰雪项目的作品，非常有想象力。
 
-![](asset/2022/img2022021806.jpg)
+![](asset/2022/img2022022206.jpg)
 
 **[Hidreley Diao](https://www.instagram.com/hidreley/)**
 
 Hidreley Diao 利用 AI 图片生成技术，将艺术作品中的历史名人还原成现代人的模样。
 
-![](asset/2022/img2022021807.jpg)
+![](asset/2022/img2022022207.jpg)
 
 **[《程序员在家做饭方法指南》](https://github.com/Anduin2017/HowToCook)**
 
@@ -36,24 +42,24 @@ Hidreley Diao 利用 AI 图片生成技术，将艺术作品中的历史名人�
 
 小学老师和外星甲壳虫联手拯救太阳系，极具画面感的科幻小说，节奏紧张又不失温情。《火星救援》作者安迪·威尔的又一力作。
 
-![](asset/2022/img2022021802.jpg)
+![](asset/2022/img2022022202.jpg)
 
 **[《人世间》](https://movie.douban.com/subject/35207856/)**
 
 近几年难得的好剧，豆瓣评分8.1。当然评分不太重要，主要是把我看哭了。
 
-![](asset/2022/img2022021805.jpg)
+![](asset/2022/img2022022205.jpg)
 
 ## 📝 每周一词<sup>*</sup>
 
-![Metaverse](asset/2022/img2022021804.jpg)
+![Metaverse](asset/2022/img2022022204.jpg)
 
 ## ☎️ 关注订阅
 
 - [欢迎投稿](https://wj.qq.com/s2/9741038/c74e/)
-- 关注公众号：[酷玩Weekly](/doc/asset/2022/img2022021803.jpg)
+- 关注公众号：[酷玩Weekly](/doc/asset/2022/img2022022203.jpg)
 - 制作团队：[ThusLab](https://thuscn.com/lab/)
 
-![](asset/2022/img2022021803.jpg)
+![](asset/2022/img2022022203.jpg)
 
 > 带*内容是我们的作品，谢谢支持。
