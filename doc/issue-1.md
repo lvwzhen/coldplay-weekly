@@ -65,7 +65,8 @@ Hidreley Diao 利用 AI 图片生成技术，将艺术作品中的历史名人�
 ## ☎️ 关注订阅
 
 - [欢迎投稿](https://wj.qq.com/s2/9741038/c74e/)
-- 关注公众号：酷玩Weekly
+- 关注公众号：酷玩一下
+- 邮件订阅：[竹白](https://coldplay.zhubai.love/)、[Twitter](https://www.getrevue.co/profile/coldplay-weekly)
 - 制作团队：[ThusLab](https://thuscn.com/lab/)
 
 ![](asset/2022/img2022022203.jpg)

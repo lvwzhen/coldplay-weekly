@@ -9,5 +9,14 @@
 
 - [第 1 期](doc/issue-1.md)
 
+---
+
+## ☎️ 关注订阅
+
+- 关注公众号：酷玩一下
+- 邮件订阅：[竹白](https://coldplay.zhubai.love/)、[Twitter](https://www.getrevue.co/profile/coldplay-weekly)
+- 制作团队：[ThusLab](https://thuscn.com/lab/)
+
+![](doc/asset/2022/img2022022203.jpg)
 
 
