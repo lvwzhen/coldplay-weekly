@@ -11,8 +11,6 @@
 
 ---
 
-## ☎️ 关注订阅
-
 - 关注公众号：酷玩一下
 - 邮件订阅：[竹白](https://coldplay.zhubai.love/)、[Twitter](https://www.getrevue.co/profile/coldplay-weekly)
 - 制作团队：[ThusLab](https://thuscn.com/lab/)
