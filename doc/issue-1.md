@@ -40,7 +40,7 @@ Hidreley Diao 利用 AI 图片生成技术，将艺术作品中的历史名人�
 
 ## 📚 影音推荐
 
-**[《挽救计划》](https://github.com/Anduin2017/HowToCook)**
+**[《挽救计划》](https://book.douban.com/subject/35494160/)**
 
 小学老师和外星甲壳虫联手拯救太阳系，极具画面感的科幻小说，节奏紧张又不失温情。《火星救援》作者安迪·威尔的又一力作。
 
