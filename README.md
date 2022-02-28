@@ -11,7 +11,7 @@
 
 ---
 
-- [邮件订阅](https://www.getrevue.co/profile/coldplay-weekly)、[Telegram](https://t.me/ColdplayWeekly)
+- [邮件订阅](https://www.getrevue.co/profile/coldplay-weekly)、[Telegram](https://t.me/ColdplayWeekly)、[GitHub](https://github.com/lvwzhen/coldplay-weekly)
 - 制作团队：[ThusLab](https://thuscn.com/lab/)
 - 关注公众号：酷玩一下
 
