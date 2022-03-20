@@ -63,7 +63,7 @@ physicsfun 这个账号每天会发布一些小玩具，透过视频展示一些
 ## ☎️ 关注订阅
 
 - [欢迎投稿](https://wj.qq.com/s2/9741038/c74e/)
-- [邮件订阅](https://www.getrevue.co/profile/coldplay-weekly)、[Telegram](https://t.me/ColdplayWeekly)、[GitHub](https://github.com/lvwzhen/coldplay-weekly)
+- [邮件订阅](https://www.getrevue.co/profile/coldplay-weekly)、[Telegram](https://t.me/ColdplayWeekly)、[GitHub](https://github.com/lvwzhen/coldplay-weekly)、[RSS](https://rsshub.app/telegram/channel/ColdplayWeekly)
 - 制作团队：[ThusLab](https://thuscn.com/lab/)
 - 关注公众号：酷玩一下
 
