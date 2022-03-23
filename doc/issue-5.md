@@ -6,6 +6,10 @@
 
 ## 😛 新奇古怪
 
+**[纪妖](http://www.cbaigui.com/)**
+
+（原名知妖）致力于收集、整理、介绍、分享古人文献中的“妖怪”，“妖怪”的长相、描述和经历都有详细介绍。比如《山海经》里的各种“妖怪”都有介绍。
+
 ## 📚 影音推荐
 
 **[Random 001](https://open.spotify.com/playlist/3JmUsJM5RmsBfCkpqZVaA2?si=9fed31bd1f9f4e17)**
