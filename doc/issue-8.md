@@ -61,6 +61,12 @@
 
 ![](asset/2022/img2022042803.png)
 
+## 📚 影音推荐
+
+**[Random 003](https://open.spotify.com/playlist/4NM1XgBCns9fiYW26mXwgB?si=7c3dc1e1df904bdd)**
+
+![](asset/2022/img2022042811.jpeg)
+
 ## 📝 每周一词<sup>*</sup>
 
 ![Uber](asset/2022/img2022042810.png)
